@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ericopenteado
 - 👀 Currently a Economics student and Uni's CS monitor (using R)
-- 🌱 Playing around with Python, R and Stata
+- 👀 Working at Gávea Investimentos as Economic's Research Intern
+- 🌱 Playing around with Python, R AND F#
 - 💞️ Mostly trying to learn how to handle data and ML
+- 💞️ Web Scraping is what i'm currently focusing on
 - 📫 ericopenteado@yahoo.com.br
 
 <!---
